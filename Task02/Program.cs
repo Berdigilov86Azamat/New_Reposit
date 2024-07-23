@@ -1,33 +1,36 @@
 ﻿void Main()
 {
-    while (true)
+    int m = ReadInt("Введите неотрицательное число m: ");
+    int n = ReadInt("Введите неотрицательное число n: ");
+   
+    int result = AckermannFunction(m, n);
+    Console.WriteLine($"AckermannFunction({m}, {n}) = {result}");
+}
+
+int AckermannFunction(int m, int n)
+{
+    if (m == 0)
     {
-        Console.WriteLine("Введите целое число или 'q' для выхода:");
-        string input = Console.ReadLine()!;
-
-        if (input == "q")
-            break;
-
-        if (!int.TryParse(input, out int number))
-        {
-            Console.WriteLine("Введено некорректное значение. Попробуйте снова.");
-            continue;
-        }
-
-        int sum = 0;
-        foreach (char digit in Math.Abs(number).ToString())
-            sum += digit - '0';
-
-        if (sum % 2 == 0)
-        {
-            Console.WriteLine("Сумма цифр введенного числа чётная. Завершение программы.");
-            break;
-        }
-        else
-        {
-            Console.WriteLine("Сумма цифр введенного числа нечетная. Продолжение программы.");
-        }
+        return n + 1;
+    }
+    else if (m > 0 && n == 0)
+    {
+        return AckermannFunction(m - 1, 1);
+    }
+    else if (m > 0 && n > 0)
+    {
+        return AckermannFunction(m - 1, AckermannFunction(m, n - 1));
+    }
+    else
+    {
+        return 0; // Это условие никогда не выполнится для неотрицательных m и n
     }
 }
-Main();
 
+int ReadInt(string msg)
+{
+    System.Console.Write(msg);
+    return Convert.ToInt32(Console.ReadLine());
+}
+
+Main();

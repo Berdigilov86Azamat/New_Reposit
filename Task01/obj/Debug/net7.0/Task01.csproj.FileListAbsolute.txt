@@ -1,0 +1,14 @@
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\bin\Debug\net7.0\Task01.exe
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\bin\Debug\net7.0\Task01.deps.json
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\bin\Debug\net7.0\Task01.runtimeconfig.json
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\bin\Debug\net7.0\Task01.dll
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\bin\Debug\net7.0\Task01.pdb
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.AssemblyInfoInputs.cache
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.AssemblyInfo.cs
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.csproj.CoreCompileInputs.cache
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.dll
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\refint\Task01.dll
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.pdb
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\Task01.genruntimeconfig.cache
+D:\GeekBrains\GeekBrains\C sharp\Практика\ДЗ к Вебинарам\ДЗ Урок 7 Рекурсия\Task01\obj\Debug\net7.0\ref\Task01.dll

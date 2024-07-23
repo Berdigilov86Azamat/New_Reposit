@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 рекурсия\\Recursion\\Tasks\\Task02\\Task02.csproj": {}
+    "D:\\GeekBrains\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 Рекурсия\\Task02\\Task02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 рекурсия\\Recursion\\Tasks\\Task02\\Task02.csproj": {
+    "D:\\GeekBrains\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 Рекурсия\\Task02\\Task02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 рекурсия\\Recursion\\Tasks\\Task02\\Task02.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 Рекурсия\\Task02\\Task02.csproj",
         "projectName": "Task02",
-        "projectPath": "C:\\Users\\User\\Documents\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 рекурсия\\Recursion\\Tasks\\Task02\\Task02.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 рекурсия\\Recursion\\Tasks\\Task02\\obj\\",
+        "projectPath": "D:\\GeekBrains\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 Рекурсия\\Task02\\Task02.csproj",
+        "packagesPath": "C:\\Users\\aberdigulov\\.nuget\\packages\\",
+        "outputPath": "D:\\GeekBrains\\GeekBrains\\C sharp\\Практика\\ДЗ к Вебинарам\\ДЗ Урок 7 Рекурсия\\Task02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aberdigulov\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
